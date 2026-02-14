@@ -1,1 +1,3 @@
 # Java-Socket-based-File-Transfer-System
+
+The Java Socket Based File Transfer System is a client-server application developed using Java’s Socket programming and TCP protocol. It enables secure and reliable communication between a client and server to perform file operations such as listing files, uploading, downloading, and deleting files remotely. The system uses DataInputStream and DataOutputStream for structured data exchange and buffered byte streams for efficient file transfer. This project demonstrates core networking concepts including TCP communication, stream-based data handling, and client-server architecture implementation in Java.
